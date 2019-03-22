@@ -1,3 +1,7 @@
+Fork from https://github.com/indulgeIn/YBImageBrowser
+
+删除了Demo项目的所有文件，加速CocoaPods安装 ~
+
 # YBImageBrowser ( Latest version : 2.1.4 )
 
 <center>
